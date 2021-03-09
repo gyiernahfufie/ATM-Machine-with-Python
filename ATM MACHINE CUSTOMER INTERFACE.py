@@ -1,6 +1,3 @@
-#HOO YEN HUI
-#TP059474
-
 import os
 import datetime
 
