@@ -1,6 +1,3 @@
-#HOO YEN HUI
-#TP059474
-
 import string
 import random
 
